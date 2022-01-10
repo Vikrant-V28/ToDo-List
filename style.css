@@ -1,0 +1,9 @@
+body {
+      background-color: #549da0;
+    }
+
+    .text-center {
+      color: darkred;
+      font-weight: 700;
+      margin: auto;
+    }
