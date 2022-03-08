@@ -2,7 +2,7 @@
   <img height="60" src="https://user-images.githubusercontent.com/85709371/155719186-f0a24ead-a2b7-4bb9-a508-8c4411eb6191.png">
 </div>
 
-# ToDo-List
+# To-Do List
 The simple To-Do list for daily remiders and updates.
 
 ### Prerequisites
